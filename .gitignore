@@ -1,0 +1,6 @@
+config.txt
+# mengabaikan file config.txt
+data/
+# mengabaikan folder data dan isinya
+*exe 
+# semua  file berekstensi .exe diabaikan
